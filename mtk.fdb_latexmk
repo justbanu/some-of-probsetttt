@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1778216066.47659 "c:/Users/Aspire 5/OneDrive/Documents/Belajar-workstation/29-04/SSU-ITB/mtk.tex" "mtk.pdf" "mtk" 1778216068.80419 0
-  "9.png" 1778214804 180879 c8eb00229eb2275a0d2f8261079b0e78 ""
+["pdflatex"] 1778349865.50954 "c:/Users/Aspire 5/OneDrive/Documents/Belajar-workstation/29-04/SSU-ITB/mtk.tex" "mtk.pdf" "mtk" 1778349867.60898 0
+  "9.png" 1778349602 180879 c8eb00229eb2275a0d2f8261079b0e78 ""
   "C:/Users/Aspire 5/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1777483185 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Aspire 5/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1200.pk" 1777570903 31952 757ecbff8f2dbd266a0279f29da1bc91 ""
   "C:/Users/Aspire 5/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1728.pk" 1777570210 49100 4fb4cbc997acd98f8581e45d0df47621 ""
@@ -64,9 +64,9 @@
   "C:/Users/Aspire 5/AppData/Local/Programs/MiKTeX/tex/latex/graphics/keyval.sty" 1665067579 2671 7e67d78d9b88c845599a85b2d41f2e39 ""
   "C:/Users/Aspire 5/AppData/Local/Programs/MiKTeX/tex/latex/graphics/trig.sty" 1665067579 4023 293ea1c16429fc0c4cf605f4da1791a9 ""
   "C:/Users/Aspire 5/AppData/Local/Programs/MiKTeX/tex/latex/l3backend/l3backend-pdftex.def" 1704400941 30006 57b07afb710ee2f649c65cfbafda39c1 ""
-  "c:/Users/Aspire 5/OneDrive/Documents/Belajar-workstation/29-04/SSU-ITB/mtk.tex" 1778216064 3825 25f4a70a76790866f92a7ce9f6ad026e ""
-  "mtk.aux" 1778216068 32 c81c40425fbb5e93b90fba65da0b5e61 "pdflatex"
-  "mtk.tex" 1778216064 3825 25f4a70a76790866f92a7ce9f6ad026e ""
+  "c:/Users/Aspire 5/OneDrive/Documents/Belajar-workstation/29-04/SSU-ITB/mtk.tex" 1778349861 3230 741c8f1ce9be3d1b658e755d18c2f786 ""
+  "mtk.aux" 1778349867 32 ab05033ccbb38b00a31b200ccedf8001 "pdflatex"
+  "mtk.tex" 1778349861 3230 741c8f1ce9be3d1b658e755d18c2f786 ""
   (generated)
   "mtk.aux"
   "mtk.log"
